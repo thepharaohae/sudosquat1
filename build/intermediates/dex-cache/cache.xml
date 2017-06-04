@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3433d4b8267def6e72d019e648ebf29e86c038c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_1f1a179904e8fa43ea5139729398e9112a57a9e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_84cd3778e69573f92191a48d97e48eff80050818\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_483c74f578a52f09d302149cf0b73002e6e38b66.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha9_98144e4bc7796c6138c2c0abac0685639124e076\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_2a4abfdbccfbe09cb6df97989be0cc005fcb4f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.19.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.facebook.android-facebook-android-sdk-4.19.0_056fdb0dc2e251b91132295b432ad160cf0b6d83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3fd2275fd85969778629648126b13c4b27d6a133.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.6.1_9a62e05aeef03c01a6d40438346140a3500cd3ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.6.1_03fb19a75311b2eea13619afbc282645df03f4d6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.6.1_28ab296ffae362cb20bb67ed587dea045fa80281\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_ac6bba3b5f9d0ad12cfd0715d9ae0f52b02650e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.6.1_606407fdd2acc0b21cdd8ccd7554cebdad84e99f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.6.1_2252f2b50aae84a629e0665ab748b59c7d363e49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.6.1_5185a0db0abdcd00ee031e35bcf81d7bd7682799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.6.1_05f11638a85e9bbbd33e2c1283bca0cfd59bb04a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha9_a3f154814cae030f5ae5a61a9fb425b1aa3f4dbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_d3144f86425b7c5438c91e17530d3a6f3e312ddb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.6.1_9e3da7475047ea92816fb0e461eb06886eafa9e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_d398297e8bbba0d0f68b2644620d6bc3160fd104.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="31f8cc0a5d85f6ddfab7f9e9ef24a1281777b37b">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7093bc3d233d957098be185fb8abdde777f160d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_483c74f578a52f09d302149cf0b73002e6e38b66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_2a4abfdbccfbe09cb6df97989be0cc005fcb4f1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_09ec94fdf35de7c0d9c47b26cc26891c53580fb2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.0_84cd3778e69573f92191a48d97e48eff80050818.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_b56b58792b002b81bb73d9b0ded94aa0d4615b29\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_6d7f4d80019997b07af9b7c2ec466c48990bbd55.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_17bcfa75486fa38976fc82bc301c9852a74f02cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_45ac97cb4bf03484b3de0b395d8aa7841353c561\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_1f1a179904e8fa43ea5139729398e9112a57a9e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.0.0_fd0608750deec6a83dcca153dc600ab066194672.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.6.1_7790624e5ed656a0b8b1e46aa6d8e0e2886ab9ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_3fd2275fd85969778629648126b13c4b27d6a133\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_ac6bba3b5f9d0ad12cfd0715d9ae0f52b02650e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.6.1_28ab296ffae362cb20bb67ed587dea045fa80281.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.6.1_03fb19a75311b2eea13619afbc282645df03f4d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.6.1_4a653da67b0adc4045be6787e5cdb4375ea0090e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.6.1_5d6f3312d645ef542155d1ee0e25fb53388cf56b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.6.1_50b4a38eab6846216467f7d6e683e92ee3da7c3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="77558e74bb2056ef38516296f13a27c4c4fc3e5c">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.6.1_9e3da7475047ea92816fb0e461eb06886eafa9e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_09ec94fdf35de7c0d9c47b26cc26891c53580fb2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_6d7f4d80019997b07af9b7c2ec466c48990bbd55\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_f16b51ddc88c41d8dcc3ebd33a741d4adbe3fe1c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.0.0_fd0608750deec6a83dcca153dc600ab066194672\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_17bcfa75486fa38976fc82bc301c9852a74f02cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_45ac97cb4bf03484b3de0b395d8aa7841353c561.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_20e9f0b31b4461e41c3b0ed487cb0ed1faac3c40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.6.1_6c488944bfb99dd9c66dc6f99cda5bb8244bf993\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.6.1_7790624e5ed656a0b8b1e46aa6d8e0e2886ab9ed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_12f3f9ffbb103ad7098f0629ea7c8fc7755b8a35\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.6.1_4a653da67b0adc4045be6787e5cdb4375ea0090e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_1ae5142c287bba17666b064fe6960cecc80ae061\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4df40545c9b875855f3dd9d4928e5d07f07c20ba">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.6.1_5d6f3312d645ef542155d1ee0e25fb53388cf56b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_20e9f0b31b4461e41c3b0ed487cb0ed1faac3c40.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0b18ab17c4e9ef55d35ae79add3bc939a10a05c2">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bf175b89f40f6a164f37d63da4476adeae127f8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.6.1_7d815a1bee5b7a3aa5c38895bb93eb9ecee2243a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_b56b58792b002b81bb73d9b0ded94aa0d4615b29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.6.1_50b4a38eab6846216467f7d6e683e92ee3da7c3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_dc62267b308046519d35f0db7dbe82fab2012fd7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_32404f658f2e1b7f51255e18a22a11eabefea601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_f16b51ddc88c41d8dcc3ebd33a741d4adbe3fe1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.0-alpha9_a3f154814cae030f5ae5a61a9fb425b1aa3f4dbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha9\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.0-alpha9_98144e4bc7796c6138c2c0abac0685639124e076.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.6.1_6c488944bfb99dd9c66dc6f99cda5bb8244bf993.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.19.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c6047a34af07d6ec4e950ba1dc70ce23ac65ecaa">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.19.0_056fdb0dc2e251b91132295b432ad160cf0b6d83\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3433d4b8267def6e72d019e648ebf29e86c038c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="80dd8bea08bc5fe10b10a3243b8279c856ccc690">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.6.1_9a62e05aeef03c01a6d40438346140a3500cd3ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_1ae5142c287bba17666b064fe6960cecc80ae061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_12f3f9ffbb103ad7098f0629ea7c8fc7755b8a35.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.6.1_2252f2b50aae84a629e0665ab748b59c7d363e49\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6ffe8b28ab61e5ee92ab9431a220379790c71ddf">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.6.1_606407fdd2acc0b21cdd8ccd7554cebdad84e99f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.6.1_5185a0db0abdcd00ee031e35bcf81d7bd7682799\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_32404f658f2e1b7f51255e18a22a11eabefea601.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_d398297e8bbba0d0f68b2644620d6bc3160fd104\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.6.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="af7582c6b327449c6d32518e6a10307860b7b5d6">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.6.1_05f11638a85e9bbbd33e2c1283bca0cfd59bb04a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_d3144f86425b7c5438c91e17530d3a6f3e312ddb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a18547ea91d258866d132c2a763185f15b01b25">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.6.1_7d815a1bee5b7a3aa5c38895bb93eb9ecee2243a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Owner\Desktop\SUDOSQUAT\SUDOSQUAT\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_dc62267b308046519d35f0db7dbe82fab2012fd7\classes.dex" />
+    </item>
+
+</items>
